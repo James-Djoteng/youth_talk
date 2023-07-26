@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-IMPORTANT: ## When you are logged in please wait until you see the cover of the video before you click on the play icon.
+##  IMPORTANT: When you are logged in please wait until you see the cover of the video before you click on the play icon.
 
 ## Getting Started
 
