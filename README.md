@@ -6,9 +6,7 @@ IMPORTANT: ## When you are logged in please wait until you see the cover of the 
 
 ## Getting Started
 
-- Clone the repo to your local machine in vs c![Color Palette](https://github.com/James-Djoteng/youth_talk/assets/106561212/1f181866-dcff-4114-8e83-835b3ce154cf)
-ode
-- 
+- Clone the repo to your local machine in vs code !
 - Choose chrome(web) as your emulator
 - Go to the main.dart file at lib/main.dart
 - Run the app "Without Debugging"
