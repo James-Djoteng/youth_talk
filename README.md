@@ -28,4 +28,5 @@ Congrats! you ve successfully launched the youth talk app.
 - The "Forgot Password" button is at the end of the scroll.
 - ## when you are logged in please wait until you see the cover of the video before you click on the play icon.
 - Only one video may play.
+- If you can't hear any sound while the video is playing, please zoom your screen to the bottom-left corner of the video player, you will see the button to unmute the video.
   
