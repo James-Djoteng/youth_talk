@@ -1,6 +1,6 @@
 # Youth Talk
 
-A new Flutter project.
+Access the publicly hosted live app: https://youthtalk-b88c4.web.app/ 
 
 ##  IMPORTANT: When you are logged in please wait until you see the cover of the video before you click on the play icon.
 
